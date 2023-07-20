@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "name": "e-commerce HamzahBatik",
+        "deskripsi": "platform penjualan toko yang semuanya full pakaian batik dan aksesoris pendukung lainnya.",
+        "posisi": "maintenance",
+        "image": "",
+        "url": "",
+        "fitur": [],
+        "job": "maintenance dan penambahan beberapa fitur dalam e-commerce.",
+        "tech": ["laravel 8", "vuejs2", "bootstrap"]
+    },
+    {
+        "id": 2,
+        "name": "Yogyakarta Inline Skate Academy",
+        "deskripsi": "platform e-learning untuk peserta didik yang mengikuti pelatihan inline skate.",
+        "posisi": "full backend",
+        "image": "",
+        "url": "",
+        "fitur": [],
+        "job": "develop platform yang diintegrasikan ke aplikasi mobile.",
+        "tech": ["laravel 9", "livewire", "bootstrap"]
+    },
+    {
+        "id": 3,
+        "name": "Kangdolan",
+        "deskripsi": "platform penjualan tiket transportasi dan tiket wisata.",
+        "posisi": "full backend",
+        "image": "",
+        "url": "",
+        "fitur": [
+            "integrasi Api pihak ketiga",
+            "integrasi payment gateway - doku"
+        ],
+        "job": "develop platform yang diintegrasikan ke aplikasi mobile.",
+        "tech": ["laravel 9", "livewire", "bootstrap"]
+    },
+    {
+        "id": 4,
+        "name": "kanjeng heritage home",
+        "deskripsi": "platform penjualan tiket villa.",
+        "posisi": "full backend",
+        "image": "",
+        "url": "",
+        "fitur": ["integrasi payment gateway - doku"],
+        "job": "develop platform yang pemesanan tiket villa via online.",
+        "tech": ["laravel 9", "blade - alpinejs", "tailwindcss"]
+    },
+    {
+        "id": 5,
+        "name": "microservice@amiminn (on-going)",
+        "deskripsi": "base microservice yang akan terhubung ke platform manapun. antara lain payment gateway, wa gateway services, rajaongkir, dll.",
+        "posisi": "full stack",
+        "image": "",
+        "url": "",
+        "fitur": ["integrasi payment gateway - doku"],
+        "job": "menyediakan semacam microservice yang akan dihubungkan ke aplikasi baru..",
+        "tech": ["laravel 10", "vuejs3", "tailwindcss"]
+    }
+]
