@@ -10,9 +10,9 @@
     {{-- @vite(['resources/css/app.css', 'resources/js/app.js']) --}}
 
     {{-- build --}}
-    <link rel="stylesheet" href="{{ asset('build/assets/app-a530061a.css')}}">
     <link rel="stylesheet" href="{{ asset('build/assets/app-be083cc6.css')}}">
-    <script src="{{ asset('build/assets/app-9f025ba8.js')}}"></script>
+
+    <script src="{{ asset('build/assets/app-9f025ba8.js')}}" defer></script>
     {{-- build --}}
 
     <body id="app" class="bg-stone-950 text-white grid justify-items-center">
