@@ -12,7 +12,7 @@
     {{-- build --}}
     <link rel="stylesheet" href="{{ asset('build/assets/app-be083cc6.css')}}">
 
-    <script src="{{ asset('build/assets/app-9f025ba8.js')}}" defer></script>
+    <script src="{{ asset('build/assets/app-9f025ba8.js')}}" type="module" defer></script>
     {{-- build --}}
 
     <body id="app" class="bg-stone-950 text-white grid justify-items-center">

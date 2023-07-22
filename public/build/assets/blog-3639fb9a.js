@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as e,a as s,b as a}from"./app-9f025ba8.js";const c={},n={class:"grid gap-4"},r=s("div",{class:"text-3xl font-bold"},[a(" ✍🏼 My "),s("span",{class:"text-blue-500"}," Posts")],-1),_=s("div",null,"My personal thoughts, notes, blog, or any things.",-1),d=[r,_];function l(i,p,h,f,u,x){return e(),o("div",n,d)}const b=t(c,[["render",l]]);export{b as default};
