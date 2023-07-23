@@ -6,7 +6,7 @@
         <div class="container mx-auto md:lg:px-36">
             <div>
                 dari seorang bocil ingusan yang hanya ingin mengejar cita-cita
-                mulianya. tibalah timeskip jadi mas-mas yg sekarang.
+                mulianya.
             </div>
             <div class="mt-5">
                 <span class="text-red-500 text-2xl">"</span>

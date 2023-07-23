@@ -1,59 +1,59 @@
 [
     {
-        "id": 1,
+        "id": "3lxfrzrUlndyJ1mWuSIf",
         "name": "e-commerce HamzahBatik",
         "deskripsi": "platform penjualan toko yang semuanya full pakaian batik dan aksesoris pendukung lainnya.",
-        "posisi": "maintenance",
-        "image": "",
-        "url": "",
-        "fitur": [],
+        "posisi": "maintenance dan pengembangan fitur",
+        "image": "img/HBatik.png",
+        "url": "https://shop.hamzahbatik.co.id/",
+        "fitur": ["doku", "nicepay", "rajaongkir", "jne", "jnt"],
         "job": "maintenance dan penambahan beberapa fitur dalam e-commerce.",
         "tech": ["laravel 8", "vuejs2", "bootstrap"]
     },
     {
-        "id": 2,
+        "id": "ubLsYrdKQEhz8LM5gDwF",
         "name": "Yogyakarta Inline Skate Academy",
         "deskripsi": "platform e-learning untuk peserta didik yang mengikuti pelatihan inline skate.",
         "posisi": "full backend",
-        "image": "",
-        "url": "",
-        "fitur": [],
+        "image": "img/YISA.png",
+        "url": "https://play.google.com/store/apps/details?id=com.lohji.yisa_app&hl=id-ID",
+        "fitur": ["integrasi payment gateway (nicepay)"],
         "job": "develop platform yang diintegrasikan ke aplikasi mobile.",
         "tech": ["laravel 9", "livewire", "bootstrap"]
     },
     {
-        "id": 3,
+        "id": "upK8mFR5A20KgBidvBll",
         "name": "Kangdolan",
         "deskripsi": "platform penjualan tiket transportasi dan tiket wisata.",
         "posisi": "full backend",
-        "image": "",
-        "url": "",
+        "image": "img/kangdolan.png",
+        "url": "https://play.google.com/store/apps/details?id=com.lohji.kangdolan&hl=id-ID",
         "fitur": [
-            "integrasi Api pihak ketiga",
-            "integrasi payment gateway - doku"
+            "integrasi Api tiket transportasi (fastravel)",
+            "integrasi payment gateway (doku)"
         ],
         "job": "develop platform yang diintegrasikan ke aplikasi mobile.",
         "tech": ["laravel 9", "livewire", "bootstrap"]
     },
     {
-        "id": 4,
+        "id": "9xeYFT6AYB6lBUscYZjD",
         "name": "kanjeng heritage home",
         "deskripsi": "platform penjualan tiket villa.",
         "posisi": "full backend",
-        "image": "",
-        "url": "",
-        "fitur": ["integrasi payment gateway - doku"],
+        "image": "img/villa.png",
+        "url": "https://villa.kanjengheritagehome.id/",
+        "fitur": ["integrasi payment gateway (doku)"],
         "job": "develop platform yang pemesanan tiket villa via online.",
-        "tech": ["laravel 9", "blade - alpinejs", "tailwindcss"]
+        "tech": ["laravel 10", "blade-alpinejs", "tailwindcss"]
     },
     {
-        "id": 5,
+        "id": "cwiqCyWlCCO4hl1wmRbC",
         "name": "microservice@amiminn (on-going)",
         "deskripsi": "base microservice yang akan terhubung ke platform manapun. antara lain payment gateway, wa gateway services, rajaongkir, dll.",
         "posisi": "full stack",
-        "image": "",
-        "url": "",
-        "fitur": ["integrasi payment gateway - doku"],
+        "image": "img/microservice.png",
+        "url": "/",
+        "fitur": ["on proccess"],
         "job": "menyediakan semacam microservice yang akan dihubungkan ke aplikasi baru..",
         "tech": ["laravel 10", "vuejs3", "tailwindcss"]
     }

@@ -13,9 +13,13 @@
                         v-for="data in getData"
                         class="border-2 text-left rounded-md border-white p-5 grid gap-2 hover:text-blue-500 cursor-pointer"
                     >
-                        <span class="text-2xl font-bold">{{ data.name }}</span>
+                        <router-link
+                            :to="'/project/' + data.id"
+                            class="text-2xl font-bold"
+                            >{{ data.name }}</router-link
+                        >
                         <div class="!text-white">
-                            {{ data.job }}
+                            {{ data.deskripsi }}
                         </div>
                         <div>
                             <div class="flex">
