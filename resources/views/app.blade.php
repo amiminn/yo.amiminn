@@ -7,12 +7,12 @@
         <title>@amiminn</title>
         <link rel="icon" type="image/x-icon" href="{{ asset("./favicon.png")}}">
     </head>
-    {{-- @vite(['resources/css/app.css', 'resources/js/app.js']) --}}
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
 
     {{-- build --}}
-    <link rel="stylesheet" href="{{ asset('build/assets/app-be083cc6.css')}}">
+    {{-- <link rel="stylesheet" href="{{ asset('build/assets/app-be083cc6.css')}}"> --}}
 
-    <script src="{{ asset('build/assets/app-9f025ba8.js')}}" type="module" defer></script>
+    {{-- <script src="{{ asset('build/assets/app-9f025ba8.js')}}" type="module" defer></script> --}}
     {{-- build --}}
 
     <body id="app" class="bg-stone-950 text-white grid justify-items-center">
