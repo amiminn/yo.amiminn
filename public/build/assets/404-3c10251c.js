@@ -1,1 +1,0 @@
-import{_ as e,c as t,b as o,a as s,o as a}from"./app-9f025ba8.js";const c={},n={class:"text-5xl font-bold"},r=s("span",{class:"italic"},"not-found",-1);function _(d,i,l,p,f,x){return a(),t("div",n,[o(" 🤖 404 "),r])}const m=e(c,[["render",_]]);export{m as default};
