@@ -1,4 +1,5 @@
 import "./bootstrap";
+import "animate.css";
 import router from "./router/index.mjs";
 import VueFeather from "vue-feather";
 import { createApp } from "vue/dist/vue.esm-bundler.js";

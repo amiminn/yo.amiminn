@@ -1,11 +1,14 @@
 <template lang="">
     <div class="grid gap-6">
-        <h1 class="text-4xl font-bold" data-aos="fade-in">
+        <h1
+            class="text-4xl font-bold animate__animated animate__flipInY"
+            data-aos="fade-in"
+        >
             👋🏼 Hi there, <br />I'm <span class="text-blue-700">{{ name }}</span
             >!
         </h1>
         <div class="container mx-auto flex justify-center">
-            <div class="flex gap-4">
+            <div class="flex gap-4 animate__animated animate__flipInY">
                 <a href="mailto:tholabul.amin@gmail.com" target="_blank">
                     <vue-feather type="mail"></vue-feather>
                 </a>
@@ -27,9 +30,12 @@
             </div>
         </div>
         <div class="container mx-auto md:lg:px-40">
-            A self-taught middle Software Enginer who is currently focusing and
-            diving into the world of laravel, vuejs, javascript (nodejs & morejs
-            library), and teaching children in the world of IT programming.
+            <p class="animate__animated animate__flipInY">
+                A self-taught middle Software Enginer who is currently focusing
+                and diving into the world of laravel, vuejs, javascript (nodejs
+                & morejs library), and teaching children in the world of IT
+                programming.
+            </p>
         </div>
     </div>
 </template>

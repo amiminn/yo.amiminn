@@ -52,9 +52,20 @@
         "deskripsi": "base microservice yang akan terhubung ke platform manapun. antara lain payment gateway, wa gateway services, rajaongkir, dll.",
         "posisi": "full stack",
         "image": "img/microservice.png",
-        "url": "/",
+        "url": "https://github.com/amiminn/microservice",
         "fitur": ["on proccess"],
         "job": "menyediakan semacam microservice yang akan dihubungkan ke aplikasi baru..",
         "tech": ["laravel 10", "vuejs3", "tailwindcss"]
+    },
+    {
+        "id": "cwiqCyiwbTO4hl1wmRbC",
+        "name": "@kodenuklir",
+        "deskripsi": "shortlink-app seperti halnya bit.ly dan sejenisnya. selesai (terbengkalai).",
+        "posisi": "full stack",
+        "image": "img/kodenuklir.png",
+        "url": "https://github.com/amiminn/kodenuklir.tech",
+        "fitur": ["-"],
+        "job": "",
+        "tech": ["laravel 8", "blade", "bootstrap"]
     }
 ]

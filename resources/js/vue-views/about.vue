@@ -1,9 +1,11 @@
 <template lang="">
     <div class="grid gap-4">
-        <div class="text-3xl font-bold">
+        <div class="text-3xl font-bold animate__animated animate__flipInY">
             🍁 tentang <span class="text-blue-500">ku</span>
         </div>
-        <div class="container mx-auto md:lg:px-36">
+        <div
+            class="container mx-auto md:lg:px-36 animate__animated animate__flipInY"
+        >
             <div>
                 dari seorang bocil ingusan yang hanya ingin mengejar cita-cita
                 mulianya.
