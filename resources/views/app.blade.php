@@ -13,6 +13,7 @@
 
         {{-- <script src="{{ asset('build/assets/app-9f025ba8.js')}}" type="module" defer></script> --}}
         {{-- build --}}
+
         </head>
     <body id="app" class="bg-stone-950 text-white grid justify-items-center">
         <header
@@ -49,7 +50,6 @@
                 <p class="opacity-80">© amiminn 2023 🪴</p>
             </footer>
         </main>
-        <Navbar />  
-
+            <Navbar  />  
     </body>
 </html>

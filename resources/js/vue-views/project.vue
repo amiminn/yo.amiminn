@@ -11,7 +11,7 @@
                 <div class="grid md:lg:grid-cols-2 gap-5">
                     <div
                         v-for="data in getData"
-                        class="border-2 text-left rounded-md border-white p-5 grid gap-2 hover:text-blue-500 cursor-pointer"
+                        class="border-2 text-left rounded-md border-white p-5 grid gap-2 hover:text-blue-500 hover:scale-105 transition"
                     >
                         <router-link
                             :to="'/project/' + data.id"
